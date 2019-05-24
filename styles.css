@@ -11,7 +11,7 @@
 /*   border: 3px solid red;*/
 }
 .responsive {
-  width: 33%;
+  max-width: 55%;
   height: auto;
 }
 .pad {
