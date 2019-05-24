@@ -30,7 +30,8 @@
 }
 #donbox {
   margin: auto;
-  width: 50%;
+  min-width: 50%;
+  max-width: 75%
   overflow: visible;
   padding-left: 5.25%;
 /*  border: 1px solid yellow; */
