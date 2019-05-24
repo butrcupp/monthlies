@@ -17,7 +17,7 @@
   height: auto;
 }
 .pad {
-  padding: 5%;
+  padding: 10 px;
 }
 #main {
   width: 100%;
@@ -35,7 +35,7 @@
   min-width: 50%;
   max-width: 75%
   overflow: visible;
-  padding-left: 5%;
+  padding-left: 10%;
 /*  border: 1px solid yellow; */
 }
 .donboxcontainer {
@@ -47,8 +47,4 @@
   margin-right: auto;
   overflow: hidden;
 /*  border: 1px solid blue; */
-}
-.row {
- max-width: 100%;
- width: auto;
 }
