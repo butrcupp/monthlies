@@ -38,6 +38,7 @@
 .donboxcontainer {
   position: relative;
   overflow: hidden;
+  min-width: 50%;
   max-height: 100%;
   margin-left: auto;
   margin-right: auto;
