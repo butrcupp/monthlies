@@ -46,3 +46,7 @@
   overflow: hidden;
 /*  border: 1px solid blue; */
 }
+.row {
+ max-width: 100%;
+ width: auto;
+}
